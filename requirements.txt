@@ -1,0 +1,6 @@
+streamlit>=1.50,<2
+pandas
+numpy
+altair
+rank-bm25
+sentence-transformers>=5,<6
